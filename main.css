@@ -1,0 +1,21 @@
+body {
+    background-color: #97DBAE;
+    text-align: center;
+
+}
+
+a {
+    text-decoration: none;
+    color: crimson;
+    background-color: #FF9F45;
+    border-radius: 4px;
+}
+
+.color-ff {
+    color: #495371;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.h3-color {
+    color: #D82148;
+}
